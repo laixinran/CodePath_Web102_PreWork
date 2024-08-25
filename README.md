@@ -28,8 +28,6 @@ Here's a walkthrough of implemented features:
 
 ![Video Walkthrough](./assets/walkthrough.gif)
 
-Click the link above to view the walkthrough on Google Drive.
-
 ## Notes
 
 One of the challenges I faced was working with DOM-related methods, but the provided resources were very helpful in refreshing my knowledge.
