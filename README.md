@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](https://img.icons8.com/color/48/000000/video-playlist.png)](https://drive.google.com/file/d/1fwX96Y3orve-Ptd_pd3pMb17Pxq-3JvS/view?usp=drive_link)
+![Video Walkthrough](./assets/walkthrough.gif)
 
 Click the link above to view the walkthrough on Google Drive.
 
