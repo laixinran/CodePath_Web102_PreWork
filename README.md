@@ -17,10 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- List anything else that you can get done to improve the app functionality!
-
-* I updated the title of the website, make it centered on the top using 'justify-content: center'.
-* I added a selected state (CSS) for the three buttons filtering different types of games.
+- ✅ I updated the title of the website, make it centered on the top using 'justify-content: center'.
+- ✅ I added a selected state (CSS) for the three buttons filtering different types of games.
 
 ## Video Walkthrough
 
