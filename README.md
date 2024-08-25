@@ -25,9 +25,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Video Walkthrough](./assets/walkThrough.gif)
 
-GIF created with [Kap](https://getkap.co/) FOR MAC
+[![Video Walkthrough](https://img.icons8.com/color/48/000000/video-playlist.png)](https://drive.google.com/file/d/1fwX96Y3orve-Ptd_pd3pMb17Pxq-3JvS/view?usp=drive_link)
+
+Click the link above to view the walkthrough on Google Drive.
 
 ## Notes
 
